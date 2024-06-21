@@ -1,0 +1,35 @@
+theres 4 ways to make a variable:
+automatticaly(x=4)
+var(var x=4)
+let(let x = 4)
+const(const x = 4)
+they all mean the same thing but i like to use var but i cant stop you from picking var aswell you can automatticaly do it,use const,or use let
+wanna try it here are some websites you can mess with the variables with!
+let:
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_variables_const
+const:
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_variables_const
+mixed:
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_variables_total
+var:
+https://www.khanacademy.org/computing/computer-programming/programming/variables/pc/challenge-bucktooth-bunny
+for var its a Khanacademy challenge so its funnier so dont copy and paste this code just type it and mess around with it!:
+var eSz = 4;
+
+var tHt = 456;
+
+ellipse(150, 70, 60, 120);  // left ear
+ellipse(240, 70, 60, 120);  // right ear
+
+ellipse(200, 170, 150, 150);    // face
+
+fill(0, 0, 0);
+ellipse(170, 150, eSz, eSz);  // left eye
+ellipse(230, 150, eSz, eSz);  // right eye
+
+line(150, 200, 250, 200);   // mouth
+
+noFill();
+rect(185, 200, 15, tHt); // left tooth
+rect(200, 200, 15, tHt); // right tooth
+
