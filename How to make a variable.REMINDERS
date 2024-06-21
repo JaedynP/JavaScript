@@ -1,0 +1,22 @@
+	i want to remind you that you dont need to use automatically in your daily basis 
+you always want to know what it means cause if you say "x=2" to someone that codes in
+ssome other coding program and wants to learn javaScript they'll get confused.and say
+"theres no syntax?".and then youll get confused and now yoru both confused.so that is why
+you use LET,CONST,VAR.we use let and const more ,var is the old version of javascript
+variables,but we can still use it.
+
+	Also another thing is naming your variables.
+your variables should always never have space.
+it can have lowercase,upercase letters,numbers,dollar symbol,and the underscore.
+so like:
+VAR MY DOG IS BEING EATEN = function
+
+is what is called a syntax error
+a syntax error is when you get a wrong thing in code because
+the computer is very picky it knows a few things so its like
+your the teacher the computer is the student
+you have to teach the computer new syntax using variable
+so the computer knows what your talking about because
+if you just say X+2=4
+the computers gonna say:What the heck is X?
+its like teaching a child 1+1 then the next lesson is like algebra or something
